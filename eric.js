@@ -7,4 +7,12 @@ const EricChristmasList = [
     title: 'Skateboard Wheel Covers',
     description: 'It will help me improve my skateboard tricks while also risking less injury.'
   },
+  {
+    image: 'https://m.media-amazon.com/images/I/81j4+ccmsnL._SX679_.jpg',
+    priority: 2,
+    price: 13.99,
+    link: 'https://www.amazon.com/hello-Strawberry-Fluoride-Toothpaste-Anticavity/dp/B0C5B7VFW7/ref=sr_1_4_mod_primary_new?dib=eyJ2IjoiMSJ9.1nRPwUwee5oPnr1vlA9V9tmkTXrxPsFoaakKbLXmaCNX_Vfq37SYKXqviOMMLF635zlBYK0YVvXHVAxi_IpoQgo8ETTCbAzko6BkyfU-glgPHf2l3azQpITruo5R2Yq2hgoNktMv5aO0I5rLjJaf-sdNJO9WHzlk4QDNWMX5TAY0lGCkMxI_aCukVgGSEAIOReRvlWSggXeH6ISujKFMz26196oAKwGV-cxCkmxBZRHEfVIH5pYUGNCZUAP3iV_SkLm5Pd5weSIms9m5yvp6lNyLb3o8d_IdqnqA8btjUKI.9jurgBHMgXmUmpurgavjwllzQUXAUA4IBynRu8Q_0cI&dib_tag=se&hvadid=661098225295&hvdev=c&hvlocphy=9010851&hvnetw=g&hvqmt=e&hvrand=4036711199199840858&hvtargid=kwd-2279294670672&hydadcr=1383_13465254&keywords=blue+raspberry+flavored+toothpaste&qid=1730312350&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-4',
+    title: 'Flavored Toothpaste',
+    description: 'I really want to try the cool flavors and it suits my quirky personality!'
+  },
 ];
