@@ -15,4 +15,12 @@ const EricChristmasList = [
     title: 'Flavored Toothpaste',
     description: 'I really want to try the cool flavors and it suits my quirky personality!'
   },
+  {
+    image: 'https://i5.walmartimages.com/seo/Great-Value-Sugar-Free-Strawberry-Watermelon-Powdered-Drink-Mix-0-42-oz-6-Packets_6d77a30f-22ca-42db-a9f1-eb697bce133d.578885a4fd0e9badd83966c6fec1bdc3.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF',
+    priority: 3,
+    price: 4.99,
+    link:'https://www.walmart.com/ip/Great-Value-Sugar-Free-Strawberry-Watermelon-Powdered-Drink-Mix-0-42-oz-6-Packets/23554745?classType=REGULAR&athbdg=L1600',
+    title: 'Drink Mix Powder',
+    description: 'It always lasts a really really long time and it is yummy.'
+  },
 ];
